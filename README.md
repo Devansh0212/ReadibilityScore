@@ -1,5 +1,5 @@
 # ReadibilityScore
-# Final Stage - (Hyper Skill project)
+# Final Stage - (Hyper_Skill project)
 
 Stage4 is a program that analyzes the readability of a text file and provides information about its content. It calculates various metrics such as the number of characters, words, sentences, and a readability score based on these metrics. Additionally, it estimates the age range of readers who can understand the text.
 
