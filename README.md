@@ -1,11 +1,11 @@
 # ReadibilityScore
 # Final Stage - (Hyper_Skill project)
 
-Stage4 is a program that analyzes the readability of a text file and provides information about its content. It calculates various metrics such as the number of characters, words, sentences, and a readability score based on these metrics. Additionally, it estimates the age range of readers who can understand the text.
+This is a program that analyzes the readability of a text file and provides information about its content. It calculates various metrics such as the number of characters, words, sentences, and a readability score based on these metrics. Additionally, it estimates the age range of readers who can understand the text.
 
 ## Description
 
-The Stage4 program takes an input file path as a command-line argument and reads the content of the specified file. It then performs the following operations:
+The program takes an input file path as a command-line argument and reads the content of the specified file. It then performs the following operations:
 
 1. Reads the text file and stores the content in a string.
 2. Counts the number of characters in the text (excluding white spaces).
@@ -18,14 +18,12 @@ The Stage4 program takes an input file path as a command-line argument and reads
 
 ## Usage
 
-To run the Stage4 program, open a command prompt or terminal and navigate to the directory containing the compiled Java class file (`Stage4.class`). Then, execute the following command: java Stage4 <input_file_path>
-
-
+To run the Stage4(i.e. the Final Stage ) of the program, open a command prompt or terminal and navigate to the directory containing the compiled Java class file (`Stage4.class`). Then, execute the following command: java Stage4 <input_file_path>
 Replace `<input_file_path>` with the path to the text file you want to analyze.
 
 ## Input File Format
 
-The Stage4 program expects the input text file to be in plain text format (e.g., `.txt` file). The file should contain the text you want to analyze.
+The  program expects the input text file to be in plain text format (e.g., `.txt` file). The file should contain the text you want to analyze.
 
 ## Example Output
 
